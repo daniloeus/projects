@@ -19,3 +19,6 @@ Python_projects
 
 ### QRgenerate(v01).py (python3.6)
 * Gerador de QRcode
+
+### Join_V02.py (python 3.6)
+* agrupar arquivos excel similares que estejam dentro da mesma pasta
