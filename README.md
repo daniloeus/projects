@@ -17,5 +17,5 @@ Python_projects
   - Email deve ser escrito em código HTML
   - Imagem da tabela selecionada na macro é convertida para HTML para envio.
 
-### QRgenerate(DDS).py (python3.6)
+### QRgenerate(v01).py (python3.6)
 * Gerador de QRcode
