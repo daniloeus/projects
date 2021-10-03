@@ -11,8 +11,8 @@ Python_projects
 ### MFG_Wrangling_V04.py (python 3.6)
 * ETL dos relatórios 5.5.1.10 do MFG e verificação dos novos PNs e G-codes da planilha de importação (trade)
 
-### DMR_Report_by_plant-V01(16_10).xlsm (VBA)
-* Automação em VBA da rotina de filtragem e separação dos dados dos relatórios quinzenais de DMR
+### email_excel_html.vba (VBA)
+* funções em VBA para rotina de filtragem e separação dos dados dos relatórios quinzenais
   - Envio automatizado dos emails através dos campos das planilhas e macro VBA.
   - Email deve ser escrito em código HTML
   - Imagem da tabela selecionada na macro é convertida para HTML para envio.
