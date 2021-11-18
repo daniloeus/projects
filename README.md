@@ -22,3 +22,6 @@ Python_projects
 
 ### Join_V02.py (python 3.6)
 * agrupar arquivos excel similares que estejam dentro da mesma pasta
+
+### Splitting_V03(xls Template - save xlsm).py (python 3.6)
+* separar oum arquivo em excel em multiplos arquivos com base em uma coluna de parametro
